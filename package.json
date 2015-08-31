@@ -1,7 +1,7 @@
 {
   "name": "greatest",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find the largest number in a list",
   "license": "MIT",
   "repository": "bendrucker/greatest",
