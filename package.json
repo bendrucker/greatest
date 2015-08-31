@@ -25,6 +25,7 @@
     "index.js"
   ],
   "dependencies": {
+    "sort-on": "~1.2.2",
     "to-array": "~0.1.4"
   }
 }
