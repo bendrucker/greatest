@@ -1,4 +1,4 @@
-# greatest [![Build Status](https://travis-ci.org/bendrucker/greatest.svg?branch=master)](https://travis-ci.org/bendrucker/greatest)
+# greatest [![Build Status](https://travis-ci.org/bendrucker/greatest.svg?branch=master)](https://travis-ci.org/bendrucker/greatest) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/greatest.svg)](https://greenkeeper.io/)
 
 > Find the largest number in a list
 
